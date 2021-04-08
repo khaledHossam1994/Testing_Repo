@@ -1,8 +1,8 @@
-/* Version: 1.0 */
+/* Version: 2.0 */
 
 #include <stdio.h>
 
 void main(void)
 {
-	printf("Hello World!");
+	printf("Welcome to embedded system foundation course!");
 }
