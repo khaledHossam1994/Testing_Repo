@@ -1,8 +1,13 @@
-/* Version: 3.5 */
+/* Version: 3.6 */
 
 #include <stdio.h>
 
+void printDiff(int x, int y)
+{
+	printf("x - y = %d", x - y);
+}
+
 void main(void)
 {
-	printf("Welcome to embedded system foundation!");
+	printDiff(10,5);
 }
