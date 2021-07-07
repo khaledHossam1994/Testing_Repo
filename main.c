@@ -2,7 +2,12 @@
 
 #include <stdio.h>
 
+void printSum(int x, int y)
+{
+	printf("x + y = %d", x + y);
+}
+
 void main(void)
 {
-	printf("Welcome to embedded system foundation!");
+	printSum(5,8);
 }
