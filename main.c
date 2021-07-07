@@ -1,4 +1,4 @@
-/* Version: 3.5 */
+/* Version: 3.6 */
 
 #include <stdio.h>
 
